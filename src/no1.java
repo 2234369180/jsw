@@ -15,6 +15,7 @@ public class no1 {
         Thread t4=new Thread(c3,"t4");
         t4.start();
         System.out.println("fdfg");
+        System.out.println(123);
     }
 }
 
