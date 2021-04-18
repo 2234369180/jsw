@@ -14,7 +14,7 @@ public class no1 {
         System.out.println("c3:"+c3.num);
         Thread t4=new Thread(c3,"t4");
         t4.start();
-
+        System.out.println("fdfg");
     }
 }
 
